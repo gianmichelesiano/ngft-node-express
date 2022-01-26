@@ -37,6 +37,7 @@ I review the app and and changed it to a working version. Below you can find the
 - Not provide hardcode sensitive data like db-connection, password, secret key
 - Minimize the amount of logging and not track data to avoid security problem
 - Use a package to protect against well known vulnerabilities (for node,express is available Helmet)
+- Always test before deploying
 - Use a Control Version repository
 - Create a pipeline for Automatic Deployment
 - Create a containers of the applications
