@@ -8,7 +8,7 @@ Download code:
 ```sh
 $ git clone https://github.com/gianmichelesiano/ngft-node-express.git
 $ cd ngft-node-express
-$ cd npm install
+$ npm install
 ```
 
 Then install the dependencies:
