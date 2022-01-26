@@ -22,5 +22,5 @@ Run app:
 ```sh
 (venv)$ python manage.py runserver
 ```
-Defoutl port 5000, but you can set a env variable.
-And navigate to `http://127.0.0.1:5000
+Defoult port 5000, but you can set a env variable.
+And navigate to http://127.0.0.1:5000
